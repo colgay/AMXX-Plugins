@@ -1,0 +1,18 @@
+<NotepadPlus>
+    <Project name="zombiemod">
+        <File name="zombiemod.sma" />
+        <Folder name="zombiemod">
+            <File name="zombiemod\ambience.sma" />
+            <File name="zombiemod\zombie.sma" />
+            <File name="zombiemod\nightvision.sma" />
+            <File name="zombiemod\nemesis.sma" />
+            <File name="zombiemod\money.sma" />
+            <File name="zombiemod\human.sma" />
+            <File name="zombiemod\hudinfo.sma" />
+            <File name="zombiemod\global.sma" />
+            <File name="zombiemod\gamerules.sma" />
+            <File name="zombiemod\buy.sma" />
+        </Folder>
+        <File name="playermodel.sma" />
+    </Project>
+</NotepadPlus>
